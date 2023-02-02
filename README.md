@@ -12,4 +12,6 @@ Their is a hold button , by pressing that button your current score will be adde
 
 Reset button resets the entire game and by default the focus is on player 1.
 
+Each time player rolls dice , the dice image of that particular number is shown in the interface .
+
 The player who reaches  100 points first that palyer id declared winner and the game stops(finishes) . 
