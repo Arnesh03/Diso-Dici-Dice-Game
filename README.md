@@ -1,17 +1,18 @@
 # Diso-Dici-Dice-Game
 
-This is a web app game of dice in which 2 players playing and the first to reach 100 points  wuns .
 
-This is two players dice game .
+In this two-player dice game, players take turns rolling a dice and trying to accumulate as many points as possible. The game is played in a web app and is easy to follow. The goal is to be the first player to reach 100 points, which is the winning score.
 
-By default player 1 will start the game .
+The game starts with Player 1 rolling the dice first. Every time a player rolls the dice, their current score will continue to accumulate until they choose to hold. The hold button allows the player to add their current score to their main score, which is a cumulative score that they can accumulate over multiple turns. After the hold button is pressed, it becomes the next player's turn to roll the dice.
 
-The rule of the game is that a player's scores will be keep adding until it holds it and that current score will be added to it's main score . And if dice rolls and their is 1 in dice then all the points in the surrent score will be equal to zero and the focus will be on the next player i.e now it's another player chance .
+However, there is a catch. If the dice shows a value of 1, the player's current score will be reset to 0 and it will become the next player's turn. This means that a player could be building up a good score, but if they roll a 1, they will lose all of their points and have to start from scratch. This adds an element of risk and strategy to the game.
 
-Their is a hold button , by pressing that button your current score will be added to it, main score and now the chance is of another player to roll dice .
+The reset button allows the players to start the game from the beginning. This is useful if the players want to play multiple rounds of the game, or if they have made a mistake and want to start over. By default, the focus is on Player 1 after a reset.
 
-Reset button resets the entire game and by default the focus is on player 1.
+The winner of the game is the player who reaches 100 points first. Once a player reaches this score, the game will end, and the winner will be declared. The game is designed to be fast-paced and fun, and it's a great way to spend some time with friends or family while competing to see who can reach 100 points first.
 
-Each time player rolls dice , the dice image of that particular number is shown in the interface .
 
-The player who reaches  100 points first that palyer id declared winner and the game stops(finishes) . 
+## LINK OF THE GIVEN PROJECT IS GIVEN BELOW :
+ 
+ https://arnesh-diso-dici-dice-game.netlify.app/
+ 
